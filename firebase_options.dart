@@ -40,49 +40,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDEG8RlZ7y0gfMCKJleaCiaJMbbjSseOVo',
-    appId: '1:242030536834:web:ccc2bb8a68a56f62ecac9b',
-    messagingSenderId: '242030536834',
-    projectId: 'chessclan-a50f8',
-    authDomain: 'chessclan-a50f8.firebaseapp.com',
-    storageBucket: 'chessclan-a50f8.firebasestorage.app',
-    measurementId: 'G-L76MJKFBHC',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA1FJAINRig4QSV6b7kZaKjw1t8YQQgs18',
-    appId: '1:242030536834:android:ee02a18107d1a569ecac9b',
-    messagingSenderId: '242030536834',
-    projectId: 'chessclan-a50f8',
-    storageBucket: 'chessclan-a50f8.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDEWop1bcqqL3MSEUIJMcnBO-mu2IUMAYI',
-    appId: '1:242030536834:ios:935684106447ae7aecac9b',
-    messagingSenderId: '242030536834',
-    projectId: 'chessclan-a50f8',
-    storageBucket: 'chessclan-a50f8.firebasestorage.app',
-    iosBundleId: 'com.example.chessClanApp',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDEWop1bcqqL3MSEUIJMcnBO-mu2IUMAYI',
-    appId: '1:242030536834:ios:935684106447ae7aecac9b',
-    messagingSenderId: '242030536834',
-    projectId: 'chessclan-a50f8',
-    storageBucket: 'chessclan-a50f8.firebasestorage.app',
-    iosBundleId: 'com.example.chessClanApp',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDEG8RlZ7y0gfMCKJleaCiaJMbbjSseOVo',
-    appId: '1:242030536834:web:6246d4dd9d7eb5d8ecac9b',
-    messagingSenderId: '242030536834',
-    projectId: 'chessclan-a50f8',
-    authDomain: 'chessclan-a50f8.firebaseapp.com',
-    storageBucket: 'chessclan-a50f8.firebasestorage.app',
-    measurementId: 'G-R7RYR46WHM',
-  );
+  
 }
